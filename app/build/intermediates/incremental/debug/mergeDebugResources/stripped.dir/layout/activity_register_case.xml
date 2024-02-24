@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="@dimen/_16sdp"
+    android:orientation="vertical"
+    tools:context=".user.RegisterCaseActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add Cases"
+        android:fontFamily="@font/aldrich"
+        android:textSize="@dimen/_16sdp"
+        android:textColor="@color/primaryDark"/>
+
+    <com.google.android.material.textfield.TextInputLayout
+        style="@style/CustomTextInputLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_16sdp"
+        android:id="@+id/userFullname"
+        android:hint="Full Name"
+        app:boxStrokeColor="@color/primaryDark"
+        app:hintTextColor="@color/primaryDark">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:imeOptions="actionNext"
+            android:inputType="text"
+            android:textColor="@color/primaryDark"
+            android:textColorHint="@color/primaryLight" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        style="@style/CustomTextInputLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_8sdp"
+        android:hint="User Age"
+        android:id="@+id/userAge"
+        app:boxStrokeColor="@color/primaryDark"
+        app:hintTextColor="@color/primaryDark">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:imeOptions="actionNext"
+            android:inputType="number"
+            android:textColor="@color/primaryDark"
+            android:textColorHint="@color/primaryLight" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        style="@style/CustomTextInputLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_8sdp"
+        android:hint="Case Detail"
+        android:id="@+id/caseDetail"
+        app:boxStrokeColor="@color/primaryDark"
+        app:hintTextColor="@color/primaryDark">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:imeOptions="actionNext"
+            android:inputType="text"
+            android:textColor="@color/primaryDark"
+            android:textColorHint="@color/primaryLight" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        style="@style/CustomTextInputLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_8sdp"
+        android:hint="User Contact"
+        app:counterMaxLength="10"
+        app:counterEnabled="true"
+        android:id="@+id/userContact"
+        app:boxStrokeColor="@color/primaryDark"
+        app:hintTextColor="@color/primaryDark">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:imeOptions="actionNext"
+            android:inputType="phone"
+            android:maxLength="10"
+            android:textColor="@color/primaryDark"
+            android:textColorHint="@color/primaryLight" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        style="@style/CustomTextInputLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_8sdp"
+        android:hint="User Address"
+        android:id="@+id/userAddress"
+        app:boxStrokeColor="@color/primaryDark"
+        app:hintTextColor="@color/primaryDark">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:imeOptions="actionNext"
+            android:inputType="textPostalAddress"
+            android:textColor="@color/primaryDark"
+            android:textColorHint="@color/primaryLight" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <TextView
+        android:id="@+id/courtSpinnerText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:fontFamily="@font/nunito"
+        android:gravity="center_vertical"
+        android:letterSpacing="0.1"
+        android:textSize="@dimen/_10sdp"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_8sdp">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:fontFamily="@font/nunito"
+            android:letterSpacing="0.1"
+            android:text="Expertise :"
+            android:textColor="@color/black"
+            android:textSize="@dimen/_12sdp" />
+
+        <Spinner
+            android:id="@+id/expertiseSpinner"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/spinner_bg"
+            android:entries="@array/expertise_category" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/expertiseSpinnerText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:fontFamily="@font/nunito"
+        android:gravity="center_vertical"
+        android:letterSpacing="0.1"
+        android:textSize="@dimen/_10sdp"
+        android:visibility="gone" />
+
+    <com.google.android.material.button.MaterialButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingHorizontal="@dimen/_25sdp"
+        android:text="Add Case"
+        android:textColor="@color/primaryDark"
+        android:id="@+id/addCaseBtn"
+        app:rippleColor="@color/primaryLight"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/_35sdp"
+        style="@style/Widget.Material3.Button.OutlinedButton"/>
+
+</LinearLayout>

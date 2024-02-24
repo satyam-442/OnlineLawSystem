@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Online Law System</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="court_jurisdiction"><![CDATA[Court & Jurisdiction:]]></string>
+
+    <string-array name="court_category">
+        <item>Supreme Court</item>
+        <item>High Court</item>
+        <item>District Court</item>
+        <item>Sessions Court</item>
+        <item>Magistrate Court</item>
+        <item>Family Court</item>
+        <item>Consumer Court</item>
+        <item>Labour Court</item>
+        <item>National Green Tribunal</item>
+    </string-array>
+
+    <string-array name="expertise_category">
+        <item>Criminal Law</item>
+        <item>Civil Law</item>
+        <item>Family Law</item>
+        <item>Corporate Law</item>
+        <item>Intellectual Property Law</item>
+        <item>Immigration Law</item>
+        <item>Bankruptcy Law</item>
+        <item>Tax Law:</item>
+        <item>Environmental Law</item>
+    </string-array>
+
+    <string-array name="jurisdiction_category">
+        <item>Central</item>
+        <item>State</item>
+    </string-array>
+
+</resources>

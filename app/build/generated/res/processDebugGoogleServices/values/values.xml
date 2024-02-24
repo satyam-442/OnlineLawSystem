@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">385309102258</string>
+    <string name="google_api_key" translatable="false">AIzaSyAtXvgE2jUrEzorV_2InYihBmT27v_V-Ak</string>
+    <string name="google_app_id" translatable="false">1:385309102258:android:ed37c958821d59d2f9f9ab</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAtXvgE2jUrEzorV_2InYihBmT27v_V-Ak</string>
+    <string name="google_storage_bucket" translatable="false">online-law-system-ce447.appspot.com</string>
+    <string name="project_id" translatable="false">online-law-system-ce447</string>
+</resources>

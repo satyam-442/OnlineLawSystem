@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.BACKGROUND_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.OnlineLawSystem"
+        tools:targetApi="31">
+        <activity
+            android:name=".user.ViewCasesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".user.RegisterCaseActivity"
+            android:exported="false" />
+        <activity
+            android:name=".lawyer.LawyersCasesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".lawyer.LawyerProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name=".lawyer.LawyerMainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".lawyer.LawyerLoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".user.AboutUsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".user.ProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name=".user.LawBookSearchActivity"
+            android:exported="false" />
+        <activity
+            android:name=".user.CaseStudySearchActivity"
+            android:exported="false" />
+        <activity
+            android:name=".user.CriminalSearchActivity"
+            android:exported="false" />
+        <activity
+            android:name=".user.LawyerSearchActivity"
+            android:exported="false" />
+        <activity
+            android:name=".user.LawSearchActivity"
+            android:exported="false" />
+        <activity
+            android:name=".user.CourtSearchActivity"
+            android:exported="false" />
+        <activity
+            android:name=".admin.casestudy.ReadCaseStudyActivity"
+            android:exported="false" />
+        <activity
+            android:name=".admin.lawbooks.EditLawbooksActivity"
+            android:exported="false" />
+        <activity
+            android:name=".admin.casestudy.EditCasestudyActivity"
+            android:exported="false" />
+        <activity
+            android:name=".admin.criminal.EditCriminalActivity"
+            android:exported="false" />
+        <activity
+            android:name=".admin.lawyer.EditLawyerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".admin.laws.EditLawsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".admin.court.EditCourtActivity"
+            android:exported="false" />
+        <activity
+            android:name=".admin.lawbooks.AdminLawBookActivity"
+            android:exported="false" />
+        <activity
+            android:name=".admin.criminal.AdminCriminalActivity"
+            android:exported="false" />
+        <activity
+            android:name=".admin.casestudy.AdminCaseStudyActivity"
+            android:exported="false" />
+        <activity
+            android:name=".admin.laws.AdminLawActivity"
+            android:exported="false" />
+        <activity
+            android:name=".admin.lawyer.AdminLawyerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".admin.court.AdminCourtsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".admin.AdminMainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".admin.AdminLoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".auth.SetupActivity"
+            android:exported="false" />
+        <activity
+            android:name=".auth.ForgotPasswordActivity"
+            android:exported="false" />
+        <activity
+            android:name=".auth.RegisterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".auth.LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".auth.WelcomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".auth.SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

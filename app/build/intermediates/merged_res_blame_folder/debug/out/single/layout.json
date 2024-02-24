@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/fragment_add_law_books.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/fragment_add_law_books.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/recycler_case_layout.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/recycler_case_layout.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/fragment_view_lawyer.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/fragment_view_lawyer.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/activity_court_search.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_court_search.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/recycler_lawyer_layout.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/recycler_lawyer_layout.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/activity_admin_law.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_admin_law.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/fragment_add_lawyer.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/fragment_add_lawyer.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/activity_register.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/activity_edit_lawbooks.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_edit_lawbooks.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/activity_criminal_search.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_criminal_search.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/activity_main.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/activity_lawyer_login.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_lawyer_login.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/activity_lawyer_search.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_lawyer_search.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/fragment_view_law_books.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/fragment_view_law_books.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/activity_admin_courts.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_admin_courts.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/activity_login.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/activity_law_book_search.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_law_book_search.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/recycler_court_layout.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/recycler_court_layout.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/activity_admin_login.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_admin_login.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/recycler_criminal_layout.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/recycler_criminal_layout.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/fragment_view_law.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/fragment_view_law.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/fragment_view_criminal.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/fragment_view_criminal.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/fragment_add_criminal.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/fragment_add_criminal.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/recycler_law_layout.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/recycler_law_layout.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/activity_setup.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_setup.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/activity_lawyer_profile.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_lawyer_profile.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/fragment_add_case_study.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/fragment_add_case_study.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/activity_register_case.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_register_case.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/activity_welcome.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/activity_admin_main.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_admin_main.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/activity_edit_court.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_edit_court.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/activity_admin_lawyer.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_admin_lawyer.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/activity_edit_criminal.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_edit_criminal.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/activity_lawyer_main.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_lawyer_main.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/activity_law_search.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_law_search.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/activity_splash.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/activity_admin_criminal.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_admin_criminal.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/activity_profile.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/activity_edit_casestudy.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_edit_casestudy.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/activity_edit_laws.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_edit_laws.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/fragment_view_court.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/fragment_view_court.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/fragment_view_case_study.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/fragment_view_case_study.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/activity_lawyers_cases.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_lawyers_cases.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/activity_read_case_study.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_read_case_study.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/activity_case_study_search.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_case_study_search.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/recycler_book_layout.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/recycler_book_layout.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/activity_admin_case_study.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_admin_case_study.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/fragment_add_court.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/fragment_add_court.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/activity_about_us.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_about_us.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/fragment_add_law.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/fragment_add_law.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/activity_forgot_password.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_forgot_password.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/activity_admin_law_book.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_admin_law_book.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/activity_view_cases.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_view_cases.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/activity_edit_lawyer.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_edit_lawyer.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-mergeDebugResources-41:/layout/recycler_casestudy_layout.xml",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/recycler_casestudy_layout.xml"
+    }
+]

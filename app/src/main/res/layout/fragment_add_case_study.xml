@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="@dimen/_16sdp"
+    android:orientation="vertical"
+    tools:context=".admin.fragments.AddCaseStudyFragment">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add Case Studies"
+        android:fontFamily="@font/aldrich"
+        android:textSize="@dimen/_16sdp"
+        android:textColor="@color/primaryDark"/>
+
+    <com.google.android.material.textfield.TextInputLayout
+        style="@style/CustomTextInputLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_16sdp"
+        android:hint="Case Title"
+        android:id="@+id/caseStudyTitle"
+        app:boxStrokeColor="@color/primaryDark"
+        app:hintTextColor="@color/primaryDark">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:imeOptions="actionNext"
+            android:inputType="text"
+            android:textColor="@color/primaryDark"
+            android:textColorHint="@color/primaryLight" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        style="@style/CustomTextInputLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_8sdp"
+        android:id="@+id/caseStudyDescription"
+        android:hint="Description of the Case"
+        app:boxStrokeColor="@color/primaryDark"
+        app:hintTextColor="@color/primaryDark">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:imeOptions="actionNext"
+            android:inputType="text"
+            android:textColor="@color/primaryDark"
+            android:textColorHint="@color/primaryLight" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        style="@style/CustomTextInputLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_8sdp"
+        android:hint="Legal Issues"
+        android:id="@+id/caseStudyLegalIssues"
+        app:boxStrokeColor="@color/primaryDark"
+        app:hintTextColor="@color/primaryDark">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:imeOptions="actionNext"
+            android:inputType="text"
+            android:textColor="@color/primaryDark"
+            android:textColorHint="@color/primaryLight" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        style="@style/CustomTextInputLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_8sdp"
+        android:id="@+id/caseStudyCourtName"
+        android:hint="Court Name and Jurisdiction"
+        app:boxStrokeColor="@color/primaryDark"
+        app:hintTextColor="@color/primaryDark">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:imeOptions="actionNext"
+            android:inputType="text"
+            android:textColor="@color/primaryDark"
+            android:textColorHint="@color/primaryLight" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        style="@style/CustomTextInputLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_8sdp"
+        android:hint="Outcome/Verdict"
+        android:id="@+id/caseStudyVerdict"
+        app:boxStrokeColor="@color/primaryDark"
+        app:hintTextColor="@color/primaryDark">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:imeOptions="actionNext"
+            android:inputType="text"
+            android:textColor="@color/primaryDark"
+            android:textColorHint="@color/primaryLight" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.button.MaterialButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingHorizontal="@dimen/_25sdp"
+        android:id="@+id/addCaseStudies"
+        android:text="Add Case Studies"
+        android:textColor="@color/primaryDark"
+        app:rippleColor="@color/primaryLight"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/_35sdp"
+        style="@style/Widget.Material3.Button.OutlinedButton"/>
+
+</LinearLayout>

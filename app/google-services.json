@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "385309102258",
+    "project_id": "online-law-system-ce447",
+    "storage_bucket": "online-law-system-ce447.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385309102258:android:ed37c958821d59d2f9f9ab",
+        "android_client_info": {
+          "package_name": "com.example.onlinelawsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtXvgE2jUrEzorV_2InYihBmT27v_V-Ak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

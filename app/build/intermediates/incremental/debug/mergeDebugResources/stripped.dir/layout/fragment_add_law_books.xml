@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/_16sdp"
+    tools:context=".admin.fragments.AddLawBooksFragment">
+
+    <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/uploadLawBook"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="6" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="4">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <com.google.android.material.card.MaterialCardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="12dp"
+                app:cardBackgroundColor="@color/primaryDark"
+                app:cardCornerRadius="25dp"
+                app:cardElevation="8dp">
+
+                <TextView
+                    android:id="@+id/selectPdfFileBtn"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:fontFamily="@font/nunito"
+                    android:gravity="center"
+                    android:padding="@dimen/_8sdp"
+                    android:text="Select File"
+                    android:textAllCaps="false"
+                    android:textColor="@color/primaryLight"
+                    android:textSize="@dimen/_15sdp"
+                    android:textStyle="bold" />
+
+            </com.google.android.material.card.MaterialCardView>
+
+            <TextView
+                android:id="@+id/selectedFileName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/nunito"
+                android:gravity="center"
+                android:text="No file selected!"
+                android:textColor="@color/primaryDark"
+                android:textSize="@dimen/_15sdp" />
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/lawBookTitle"
+                style="@style/CustomTextInputLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_16sdp"
+                android:hint="Title of the Law Book"
+                app:boxStrokeColor="@color/primaryDark"
+                app:hintTextColor="@color/primaryDark">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:imeOptions="actionNext"
+                    android:inputType="text"
+                    android:textColor="@color/primaryDark"
+                    android:textColorHint="@color/primaryLight" />
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/lawBookDescription"
+                style="@style/CustomTextInputLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_8sdp"
+                android:hint="Summary or Description"
+                app:boxStrokeColor="@color/primaryDark"
+                app:hintTextColor="@color/primaryDark">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:imeOptions="actionNext"
+                    android:inputType="text"
+                    android:textColor="@color/primaryDark"
+                    android:textColorHint="@color/primaryLight" />
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/lawBookTopics"
+                style="@style/CustomTextInputLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_8sdp"
+                android:hint="Relevant Legal Topics Covered"
+                app:boxStrokeColor="@color/primaryDark"
+                app:helperText="Separate keywords by comma (,)"
+                app:helperTextEnabled="true"
+                app:hintTextColor="@color/primaryDark">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:imeOptions="actionNext"
+                    android:inputType="text"
+                    android:textColor="@color/primaryDark"
+                    android:textColorHint="@color/primaryLight" />
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/addLawBookBtn"
+                style="@style/Widget.Material3.Button.OutlinedButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/_35sdp"
+                android:paddingHorizontal="@dimen/_25sdp"
+                android:text="Add Books"
+                android:textColor="@color/primaryDark"
+                app:rippleColor="@color/primaryLight" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

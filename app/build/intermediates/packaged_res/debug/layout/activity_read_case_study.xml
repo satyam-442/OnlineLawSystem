@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".admin.casestudy.ReadCaseStudyActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/_12sdp">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="@dimen/_45sdp"
+            android:layout_height="@dimen/_45sdp"
+            app:cardBackgroundColor="@color/primaryLight"
+            app:cardUseCompatPadding="true"
+            app:cardCornerRadius="@dimen/_8sdp">
+
+            <ImageView
+                android:onClick="goToLoginScreen"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="@dimen/_8sdp"
+                android:src="@drawable/left_arrow" />
+
+        </androidx.cardview.widget.CardView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Title:"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:textSize="@dimen/_16sdp"
+            android:fontFamily="@font/nunito"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/caseStudyTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textSize="@dimen/_12sdp"
+            android:fontFamily="@font/nunito"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Description of case:"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:textSize="@dimen/_16sdp"
+            android:fontFamily="@font/nunito"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/caseStudyDescription"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textSize="@dimen/_12sdp"
+            android:fontFamily="@font/nunito"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Legal Issues:"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:textSize="@dimen/_16sdp"
+            android:fontFamily="@font/nunito"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/caseStudyLegalIssues"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textSize="@dimen/_12sdp"
+            android:fontFamily="@font/nunito"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/court_jurisdiction"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:textSize="@dimen/_16sdp"
+            android:fontFamily="@font/nunito"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/caseStudyCourtJurisdiction"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/_12sdp"
+            android:fontFamily="@font/nunito"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Outcome/Verdict:"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:textSize="@dimen/_16sdp"
+            android:fontFamily="@font/nunito"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/caseStudyVerdict"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/_12sdp"
+            android:fontFamily="@font/nunito"/>
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,394 @@
+[
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_activity_admin_law_book.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_admin_law_book.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_activity_lawyer_search.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_lawyer_search.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_activity_admin_lawyer.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_admin_lawyer.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_activity_edit_casestudy.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_edit_casestudy.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_activity_register_case.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_register_case.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_recycler_casestudy_layout.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/recycler_casestudy_layout.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_fragment_view_lawyer.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/fragment_view_lawyer.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_activity_view_cases.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_view_cases.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_fragment_add_law.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/fragment_add_law.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_activity_admin_login.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_admin_login.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_fragment_view_law.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/fragment_view_law.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_fragment_add_lawyer.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/fragment_add_lawyer.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_activity_setup.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_setup.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_activity_welcome.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/color_text_input_border_color.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/color/text_input_border_color.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_activity_admin_law.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_admin_law.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/drawable_court_search.png.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/drawable/court_search.png"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_activity_criminal_search.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_criminal_search.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_recycler_case_layout.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/recycler_case_layout.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_activity_login.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_activity_register.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_fragment_view_court.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/fragment_view_court.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/drawable_background.jpg.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/drawable/background.jpg"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_activity_splash.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/drawable_law_books.png.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/drawable/law_books.png"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/drawable_spinner_arrow.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/drawable/spinner_arrow.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/raw_logo.json.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/raw/logo.json"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_recycler_lawyer_layout.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/recycler_lawyer_layout.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_activity_admin_main.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_admin_main.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_activity_admin_criminal.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_admin_criminal.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_activity_edit_lawbooks.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_edit_lawbooks.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/drawable_right.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/drawable/right.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/drawable_public_cases.png.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/drawable/public_cases.png"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_activity_profile.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/drawable_logout.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/drawable/logout.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_fragment_add_case_study.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/fragment_add_case_study.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_fragment_add_court.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/fragment_add_court.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_fragment_view_criminal.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/fragment_view_criminal.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_recycler_law_layout.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/recycler_law_layout.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_activity_admin_courts.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_admin_courts.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/drawable_lawyer_search.png.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/drawable/lawyer_search.png"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/raw_no_data_found.json.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/raw/no_data_found.json"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_fragment_add_criminal.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/fragment_add_criminal.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/drawable_spinner_bg.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/drawable/spinner_bg.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_activity_edit_criminal.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_edit_criminal.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_activity_lawyer_profile.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_lawyer_profile.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_activity_case_study_search.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_case_study_search.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_activity_edit_lawyer.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_edit_lawyer.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_activity_lawyer_login.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_lawyer_login.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_activity_about_us.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_about_us.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_fragment_view_law_books.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/fragment_view_law_books.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/drawable_custom_edittext_bg.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/drawable/custom_edittext_bg.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_activity_lawyer_main.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_lawyer_main.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/drawable_law_search.png.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/drawable/law_search.png"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_activity_main.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_recycler_book_layout.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/recycler_book_layout.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/xml_backup_rules.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_activity_law_search.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_law_search.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/drawable_left_arrow.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/drawable/left_arrow.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_activity_edit_court.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_edit_court.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_activity_read_case_study.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_read_case_study.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_activity_forgot_password.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_forgot_password.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_recycler_criminal_layout.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/recycler_criminal_layout.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_activity_admin_case_study.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_admin_case_study.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_activity_law_book_search.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_law_book_search.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/drawable_search.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/drawable/search.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/drawable_communicate.png.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/drawable/communicate.png"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/font_aldrich.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/font/aldrich.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/drawable_profile_page.png.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/drawable/profile_page.png"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/drawable_criminal_search.png.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/drawable/criminal_search.png"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/drawable_calendar.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/drawable/calendar.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_activity_lawyers_cases.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_lawyers_cases.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/drawable_case_register.png.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/drawable/case_register.png"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/drawable_green_border.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/drawable/green_border.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/drawable_search_view_bg.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/drawable/search_view_bg.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_activity_court_search.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_court_search.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/drawable_download.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/drawable/download.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/drawable_case_study.png.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/drawable/case_study.png"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_fragment_view_case_study.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/fragment_view_case_study.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_fragment_add_law_books.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/fragment_add_law_books.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_activity_edit_laws.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/activity_edit_laws.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/font_nunito.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/font/nunito.xml"
+    },
+    {
+        "merged": "com.example.onlinelawsystem.app-merged_res-42:/layout_recycler_court_layout.xml.flat",
+        "source": "com.example.onlinelawsystem.app-main-44:/layout/recycler_court_layout.xml"
+    }
+]
